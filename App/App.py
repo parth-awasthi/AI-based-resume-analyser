@@ -649,8 +649,8 @@ def run():
         </p><br/><br/>
 
         <p align="justify">
-            Built with 🤍 by 
-            <a href="https://dnoobnerd.netlify.app/" style="text-decoration: none; color: grey;">Vinit Mittal</a> through 
+            Built by 
+            <a href="https://dnoobnerd.netlify.app/" style="text-decoration: none; color: grey;">Vinit Mittal & Parth Awasthi</a> through 
             <a href="https://www.linkedin.com/in/mrbriit/" style="text-decoration: none; color: grey;">Dr Bright --(Data Scientist)</a>
         </p>
 
