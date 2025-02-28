@@ -1,4 +1,4 @@
-# Developed by dnoobnerd [https://dnoobnerd.netlify.app]    Made with Streamlit
+# Description: This is the main file of the project which contains the code for the Resume Screening Web Application.
 
 
 ###### Packages Used ######
@@ -134,7 +134,7 @@ def run():
     st.sidebar.markdown("# Choose Something...")
     activities = ["User", "Feedback", "About", "Admin"]
     choice = st.sidebar.selectbox("Choose among the given options:", activities)
-    link = '<b>Built with 🤍 by <a href="https://dnoobnerd.netlify.app/" style="text-decoration: none; color: #021659;">Vinit Mittal</a></b>' 
+    link = '<b>Built by <p style="text-decoration: none; color: #021659;">Vinit Mittal & Parth Awasthi</p></b>' 
     st.sidebar.markdown(link, unsafe_allow_html=True)
     st.sidebar.markdown('''
         <!-- site visitors -->
